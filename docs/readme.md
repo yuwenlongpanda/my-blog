@@ -4,7 +4,7 @@ icon: home
 title: Java 面试指南
 heroImage: /logo.svg
 heroText: 余文龙
-tagline: 「Java学习 + 面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 余文龙！
+tagline: 「Java学习 + 面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 javaguide！
 actions:
   - text: 开始阅读
     link: /home/
@@ -16,13 +16,13 @@ footer: |-
   <a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2020015769号-1</a> | 主题: <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a>
 ---
 
-[![Banner](https://oss.余文龙.cn/xingqiu/xingqiu.png)](https://余文龙.cn/about-the-author/zhishixingqiu-two-years.html)
+[![Banner](https://oss.javaguide.cn/xingqiu/xingqiu.png)](https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html)
 
 ## 关于网站
 
-- [项目介绍](./余文龙/intro.md)
-- [贡献指南](./余文龙/contribution-guideline.md)
-- [常见问题](./余文龙/faq.md)
+- [项目介绍](./javaguide/intro.md)
+- [贡献指南](./javaguide/contribution-guideline.md)
+- [常见问题](./javaguide/faq.md)
 
 ## 关于作者
 
@@ -37,10 +37,10 @@ footer: |-
 
 下面是星球提供的部分服务（点击下方图片即可获取知识星球的详细介绍）：
 
-[![星球服务](https://oss.余文龙.cn/xingqiu/xingqiufuwu.png)](./about-the-author/zhishixingqiu-two-years.md)
+[![星球服务](https://oss.javaguide.cn/xingqiu/xingqiufuwu.png)](./about-the-author/zhishixingqiu-two-years.md)
 
 ## 公众号
 
 最新更新会第一时间同步在公众号，推荐关注！另外，公众号上有很多干货不会同步在线阅读网站。
 
-![余文龙 官方公众号](https://oss.余文龙.cn/github/余文龙/gongzhonghaoxuanchuan.png)
+![余文龙 官方公众号](https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png)

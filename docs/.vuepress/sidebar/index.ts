@@ -22,7 +22,7 @@ export default sidebar({
       text: "必看",
       icon: "star",
       collapsible: true,
-      prefix: "余文龙/",
+      prefix: "javaguide/",
       children: ["intro", "use-suggestion", "contribution-guideline", "faq"],
     },
     {

@@ -8,16 +8,16 @@ const __dirname = getDirname(import.meta.url);
 
 export default hopeTheme({
   logo: "/logo.png",
-  hostname: "https://余文龙.cn/",
+  hostname: "https://javaguide.cn/",
 
   iconAssets: "//at.alicdn.com/t/c/font_2922463_kweia6fbo9.css",
 
   author: {
     name: "Guide",
-    url: "https://余文龙.cn/article/",
+    url: "https://javaguide.cn/article/",
   },
 
-  repo: "https://github.com/Snailclimb/余文龙",
+  repo: "https://github.com/Snailclimb/javaguide",
   docsDir: "docs",
   // 纯净模式：https://theme-hope.vuejs.press/zh/guide/interface/pure.html
   pure: true,
@@ -42,7 +42,7 @@ export default hopeTheme({
     intro: "/about-the-author/",
     sidebarDisplay: "mobile",
     medias: {
-      Zhihu: "https://www.zhihu.com/people/余文龙",
+      Zhihu: "https://www.zhihu.com/people/javaguide",
       Github: "https://github.com/Snailclimb",
       Gitee: "https://gitee.com/SnailClimb",
     },
