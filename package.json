@@ -1,0 +1,20 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitee.com:ywlCode/my-blog.git",
+  "author": "wenlong.yu <13636488415@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.62",
+    "@vuepress/utils": "2.0.0-beta.62",
+    "husky": "8.0.3",
+    "vuepress": "^2.0.0-beta.62",
+    "vuepress-plugin-search-pro": "2.0.0-beta.211",
+    "vuepress-theme-hope": "2.0.0-beta.211"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
