@@ -4,6 +4,7 @@ import { searchProPlugin } from "vuepress-plugin-search-pro";
 import theme from "./theme.js";
 
 export default defineUserConfig({
+  base: '/blog/',
   dest: "./dist",
 
   title: "余文龙的博客(Java面试 + 学习指南)",
